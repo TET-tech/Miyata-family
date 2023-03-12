@@ -1,2 +1,4 @@
 chubachi
 Hello Word!
+
+新しい文
